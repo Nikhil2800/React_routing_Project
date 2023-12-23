@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/NikhilS/Projects/wedding_invitation/static/css/main.cd0630d1.css",
+    "main.js": "/NikhilS/Projects/wedding_invitation/static/js/main.f13adb55.js",
+    "static/media/bottom-bg.jpg": "/NikhilS/Projects/wedding_invitation/static/media/bottom-bg.439e4a2a6a00b9112560.jpg",
+    "static/media/hero-banner1.jpg": "/NikhilS/Projects/wedding_invitation/static/media/hero-banner1.60ae4a96c59ee1bfa6ea.jpg",
+    "static/media/top-bg.jpg": "/NikhilS/Projects/wedding_invitation/static/media/top-bg.c647f34e0a00d07e8da3.jpg",
+    "static/media/about.jpg": "/NikhilS/Projects/wedding_invitation/static/media/about.95bd3a3a7d99d6cb56be.jpg",
+    "static/media/bridesmaid-2.jpg": "/NikhilS/Projects/wedding_invitation/static/media/bridesmaid-2.f7e00df34c9ba68b74b2.jpg",
+    "static/media/groom.jpg": "/NikhilS/Projects/wedding_invitation/static/media/groom.7a8d1d4e8c70cb3ba78c.jpg",
+    "static/media/wedding.png": "/NikhilS/Projects/wedding_invitation/static/media/wedding.812197bb499c89c40552.png",
+    "static/media/instagram.png": "/NikhilS/Projects/wedding_invitation/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/confetti.png": "/NikhilS/Projects/wedding_invitation/static/media/confetti.ccf6a5fd308969198341.png",
+    "static/media/groom-men-2.jpg": "/NikhilS/Projects/wedding_invitation/static/media/groom-men-2.4f797252ab0e07291ecc.jpg",
+    "static/media/groom-men-3.jpg": "/NikhilS/Projects/wedding_invitation/static/media/groom-men-3.b119e80db19b7fea7d3c.jpg",
+    "static/media/bride.png": "/NikhilS/Projects/wedding_invitation/static/media/bride.4e4603587f3ab0037d56.png",
+    "static/media/bridesmaid-1.jpg": "/NikhilS/Projects/wedding_invitation/static/media/bridesmaid-1.8c26a03e3c9a6b821777.jpg",
+    "static/media/whatsapp.png": "/NikhilS/Projects/wedding_invitation/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/twitter.png": "/NikhilS/Projects/wedding_invitation/static/media/twitter.c6e48e60f856cb822273.png",
+    "static/media/groom-men-1.jpg": "/NikhilS/Projects/wedding_invitation/static/media/groom-men-1.734651686599d242c800.jpg",
+    "static/media/google-maps.png": "/NikhilS/Projects/wedding_invitation/static/media/google-maps.c31a78171b7e5c196cac.png",
+    "static/media/mail.png": "/NikhilS/Projects/wedding_invitation/static/media/mail.7f0432c3a7d36f687c69.png",
+    "static/media/telephone.png": "/NikhilS/Projects/wedding_invitation/static/media/telephone.fb244201058d6b0c101c.png",
+    "static/media/facebook.png": "/NikhilS/Projects/wedding_invitation/static/media/facebook.01a470d813915c298403.png",
+    "static/media/check-in.png": "/NikhilS/Projects/wedding_invitation/static/media/check-in.c678999a8604edc13738.png",
+    "static/media/logo.svg": "/NikhilS/Projects/wedding_invitation/static/media/logo.576e967812d5e2ddae90d631325c91de.svg",
+    "index.html": "/NikhilS/Projects/wedding_invitation/index.html",
+    "main.cd0630d1.css.map": "/NikhilS/Projects/wedding_invitation/static/css/main.cd0630d1.css.map",
+    "main.f13adb55.js.map": "/NikhilS/Projects/wedding_invitation/static/js/main.f13adb55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0630d1.css",
+    "static/js/main.f13adb55.js"
+  ]
+}
